@@ -1,1 +1,2 @@
-find "src" second test folder
+.java is source code .class if executeable file
+
